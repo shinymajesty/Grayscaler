@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grayscaler", "Grayscaler\Grayscaler.csproj", "{4C398BFB-F3B5-4779-AE32-C1206D2E4D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grayscale-Display", "Grayscale-Display\Grayscale-Display.csproj", "{4D94CE58-BC4F-4782-96A4-1D4F95D2893E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C398BFB-F3B5-4779-AE32-C1206D2E4D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C398BFB-F3B5-4779-AE32-C1206D2E4D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C398BFB-F3B5-4779-AE32-C1206D2E4D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C398BFB-F3B5-4779-AE32-C1206D2E4D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D94CE58-BC4F-4782-96A4-1D4F95D2893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D94CE58-BC4F-4782-96A4-1D4F95D2893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D94CE58-BC4F-4782-96A4-1D4F95D2893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D94CE58-BC4F-4782-96A4-1D4F95D2893E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC6296A-D43C-4A2C-AE41-B6F1A0226348}
+	EndGlobalSection
+EndGlobal
